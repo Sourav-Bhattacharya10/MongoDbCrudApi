@@ -1,0 +1,5 @@
+{
+    "connectionurl" : "mongodb://localhost:27017/",
+    "databasename" : "DeviacMongoDB",
+    "collectionname" : "Vegetables"
+}

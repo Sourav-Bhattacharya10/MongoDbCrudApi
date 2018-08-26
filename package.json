@@ -1,0 +1,16 @@
+{
+  "name": "mongodbexpressapi",
+  "version": "1.0.0",
+  "description": "express api with mongo db using mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Deviac",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.9"
+  }
+}
